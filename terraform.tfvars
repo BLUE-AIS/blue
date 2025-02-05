@@ -5,5 +5,5 @@ ssh_key = "/home/apprenant/.ssh/id_rsa"
 
 #ssh proxmox
 ssh_user_prox = "root"
-ssh_host_prox = "192.140.1.1"
+ssh_host_prox = "192.168.20.250"
 
